@@ -1,12 +1,19 @@
 Phonepe-Pulse-Data-Visualization-and-Exploration
 
 Technologies Uses:
-1.Github Cloning 
+
+1.Github Cloning
+
 2.Python 
+
 3.Pandas 
+
 4.MySQL
-5.mysql-connector-python 
-6.Streamlit 
+
+5.mysql-connector-python
+
+6.Streamlit
+
 7.Plotly
 
 Approach:
