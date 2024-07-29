@@ -12,11 +12,11 @@ import requests
 import mysql.connector
 
 mydb = mysql.connector.connect(
-  host="localhost",
-  user="root",
-  password="root",
-  database="example2",
-  port="3306"
+  host="YOUR HOST",
+  user="YOUR USER",
+  password="YOUR PASSWORD",
+  database="YOUR DATABASE",
+  port="YOUR PORT"
 )
 
 # Converting MySQL Database to pandas Dataframe
